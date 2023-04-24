@@ -1175,3 +1175,5 @@ layer_3/tile_data = PackedInt32Array(0, 65539, 0, 1, 131075, 3, 2, 131075, 3, 3,
 
 [node name="Player" parent="." instance=ExtResource("1_1dlw8")]
 position = Vector2(127, 84)
+speed = 50
+friction = 0.0
